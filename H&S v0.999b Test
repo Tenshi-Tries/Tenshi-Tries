@@ -1,0 +1,128 @@
+Halos And Sins Beta Test Project
+May 21 - 27, 2021
+
+Tasks (Please refer to the spreadsheet)
+
+Legend:
+	Pass = No problem, 
+
+1. Ads in Awards
+Note: Doesn't show while in the beta program. Had to re-download for an early-access mode.
+
+a.
+b.
+c.
+d.
+e.
+
+2. Get all the Jewels - Part 1
+Note:  
+
+a. Pass - No additional tutorial messages popped up after I tapped [X]
+	the first time it showed up on every round.
+b. Pass 
+c. No
+d. The gradual improvement of the tutorial pop-ups when you level-up
+	is a nice touch but players don't usually turn on the tutorials after
+	playying it the first time. If they missed something, or want to know  more,
+	they often go to the game's Guide directory. 
+
+3. Get all the Jewels - Part 2
+Note:
+
+a. Pass
+b. Pass
+c. Yes, Please see Task 9> Random Test 2
+d. Suggestion: When obtaining a jewel...
+	The jewel animation was inconspicuous or almost 
+	unnoticeable the top of the screen.
+	I suggest that you put the jewel animation
+	in the middle of the screen.
+	Phone screens have tall aspect ratio these days.
+	
+
+4. Get all the Jewels - Part 3
+Note:
+
+a. Yes
+b. Passed - Nice and Naughty Decks were unavailable
+c. Completed 
+d. No
+e. No Bugs
+f. No, everything functioned like the last time.
+g.
+
+5. Tutorial System
+Note:
+
+a. No
+b. Completed
+c. No tutorial messages showed up.
+d. Enabled the tutorial as usual
+
+6. Spices:
+Note: Pass/Fail
+
+a. Respin spice = Pass
+b. Half-Time spice = Pass
+c. Double Time spice = Pass
+d. Bump Left spice = Pass 
+e. Bump Right spice = Pass
+f. Punish Me! spice = Pass
+g. Punish You! spice = Pass
+h. Get Naughty spice = Pass
+i. Make Nice spice = Pass
+j. Don the Halo spice = Pass
+k. Don the Horns spice = Pass
+
+7. Guide
+Note:
+
+a. Yes, but screenshots for the explained features
+	would be a great help.
+b. Scrolling was a bit laggy
+
+8. Random Test 1
+Note:
+
+a. 
+b. Nightly Rewards
+c. Yes
+d. (Wi-fi Turned off) 
+	After closing the game> I optimized my phone>
+	making it close all the apps> Started the game>
+	Tapped "Let's Play"> Nightly rewards message showed up>
+	
+
+9. Random Test 2
+Note:
+
+a. 
+b. Entr‚e+Dessert
+c. Not broken, just a minor error
+d. After the second course, going for another one (third time)
+	is still labelled as "Second course"
+
+Bugs
+
+1.
+Classification: Reward Bug
+Reproducttibility: Always
+Title: Nightly Rewards Bug
+Description: Even after collecting the rewards starting the game, 
+	After finishing a game, a messege will show "retrieving Nightly rewards..."
+	and a Pop-up will show with a message:
+	"Could not connect to Nightly Rewards.
+	mono-io-layer-error (10035)"
+Steps to reproduce: finish a game
+Expected results: No Nightly Rewards pop-up
+Actual Results: Error pop-up
+Files:
+Note: Resetting the Couple in "Who's Playing"
+	seemed to fix the bug when I did it for
+	Tasks > 2
+
+
+
+
+
