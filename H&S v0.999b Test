@@ -1,37 +1,57 @@
 Halos And Sins Beta Test Project
+Version: V43- v09990b
 May 21 - 27, 2021
 
-Tasks (Please refer to the spreadsheet)
-
-Legend:
-	Pass = No problem, 
+Tasks (Please refer to the document)
+Tester: Upwork: Josephine B.
+Submitted: May 24
 
 1. Ads in Awards
-Note: Doesn't show while in the beta program. Had to re-download for an early-access mode.
+Note: Cleared Cache and Data before playing and didn't buy Gems
+	see task[D] first.
 
-a.
-b.
-c.
-d.
-e.
+a. No Ad warning, only the "Remove Ads?" message 
+b. After I did (task a.) it broke the ads.
+	Please refer to (task f.)
+c. Didn't get the chance to skip an ad. No [X] or skip button
+	was on the ad.
+d. [Before (task a.)]
+	Scenario: I tested the game a day before and I had an existing
+	couple in "Who's Playing" and they're level 2.
+	Played the game and I had ONE ad and there was no skip button.
+	The I proceeded to do task (a).
+e. No ads showed up BEFORE and AFTER buying Gems worth $1.99
+f. [This was before I bought Gems]
+	Situation 1) Airplane mode ON just before I finish
+	>Turned it before the next round>Rewards, No Ad pop-up showed,
+	just the "Remove Ads?" message.
+	Situation 2) Without closing the game, I played again.
+	Internet was ON during the whole gameplay but no Ad showed up
+	again, just the "Remove Ads?" message.
+	Situation 3) (Still continuing previous the game without clearing data
+	and resetting or deleting the couple) Internet: ON
+	No Ad showed up again, just the "Remove Ads?" message.
+	Situation 4) Still continuing previous the game without clearing data,
+	BUT I deleted the couple) Same results, no ads just the 
+	"Remove Ads?" message.
+g. Didn't show up.
+
 
 2. Get all the Jewels - Part 1
 Note:  
 
-a. Pass - No additional tutorial messages popped up after I tapped [X]
+a. Passed - No additional tutorial messages popped up after I tapped [X]
 	the first time it showed up on every round.
-b. Pass 
+b. Passed
 c. No
-d. The gradual improvement of the tutorial pop-ups when you level-up
-	is a nice touch but players don't usually turn on the tutorials after
-	playying it the first time. If they missed something, or want to know  more,
-	they often go to the game's Guide directory. 
+d. Sped through and played it on a realistic time frame
+	Everything went well.
 
 3. Get all the Jewels - Part 2
 Note:
 
-a. Pass
-b. Pass
+a. Passed
+b. Passed
 c. Yes, Please see Task 9> Random Test 2
 d. Suggestion: When obtaining a jewel...
 	The jewel animation was inconspicuous or almost 
@@ -50,7 +70,8 @@ c. Completed
 d. No
 e. No Bugs
 f. No, everything functioned like the last time.
-g.
+g. Will the +24hr and +8hr in the Nightly Rewards, gonna be in
+	the final release? because those worked really well hahaha
 
 5. Tutorial System
 Note:
@@ -63,17 +84,17 @@ d. Enabled the tutorial as usual
 6. Spices:
 Note: Pass/Fail
 
-a. Respin spice = Pass
-b. Half-Time spice = Pass
-c. Double Time spice = Pass
-d. Bump Left spice = Pass 
-e. Bump Right spice = Pass
-f. Punish Me! spice = Pass
-g. Punish You! spice = Pass
-h. Get Naughty spice = Pass
-i. Make Nice spice = Pass
-j. Don the Halo spice = Pass
-k. Don the Horns spice = Pass
+a. Respin spice = Passed
+b. Half-Time spice = Passed
+c. Double Time spice = Passed
+d. Bump Left spice = Passed
+e. Bump Right spice = Passed
+f. Punish Me! spice = Passed
+g. Punish You! spice = Passed
+h. Get Naughty spice = Passed
+i. Make Nice spice = Passed
+j. Don the Halo spice = Passed
+k. Don the Horns spice = Passed
 
 7. Guide
 Note:
@@ -85,44 +106,83 @@ b. Scrolling was a bit laggy
 8. Random Test 1
 Note:
 
-a. 
+a. Done
 b. Nightly Rewards
-c. Yes
-d. (Wi-fi Turned off) 
-	After closing the game> I optimized my phone>
-	making it close all the apps> Started the game>
-	Tapped "Let's Play"> Nightly rewards message showed up>
+c. Not broken but can improve
+d. (Wi-fi Turned ON) 
+	Opening the game for the first time or after closing it from the background apps
+	and tapping "Let's play" causes for a Nightly Rewards to pop up.
+	Not broken but if a player sees a message
+	"Retrieving your Nightly Rewards..." after obtaining their rewards for that day,
+	may get their hopes up and get disappointed after seeing there's no more reward.
+	Or it may  cause confusion instead.
+	[Suggestion] Add a tickbox with the text,
+		[]Don't show for today
+
+	
 	
 
 9. Random Test 2
 Note:
 
-a. 
-b. Entr‚e+Dessert
+a. Done
+b. Entree+Dessert
 c. Not broken, just a minor error
 d. After the second course, going for another one (third time)
 	is still labelled as "Second course"
 
-Bugs
+Answers to Questions:
 
-1.
-Classification: Reward Bug
-Reproducttibility: Always
-Title: Nightly Rewards Bug
-Description: Even after collecting the rewards starting the game, 
-	After finishing a game, a messege will show "retrieving Nightly rewards..."
-	and a Pop-up will show with a message:
-	"Could not connect to Nightly Rewards.
-	mono-io-layer-error (10035)"
-Steps to reproduce: finish a game
-Expected results: No Nightly Rewards pop-up
-Actual Results: Error pop-up
-Files:
-Note: Resetting the Couple in "Who's Playing"
-	seemed to fix the bug when I did it for
-	Tasks > 2
+(Please refer to the document for questions)
 
-
-
-
-
+1. Rate the Design = Very Good
+2. Rate the Usability = Awesome
+3. Overall App rating = 4
+4. Good qualities of the app
+	= Unique, fun, flexible (in terms of card decks), 
+		Good mechanics (timer, roulette, slot machine)
+5. Bad quality/ies of the app = If someone is __ and want to
+	use it right away, they won't have time to read all the tutorial
+	and just get to it. This may make them miss out on the fun and
+	potential of this app. (Not really a "bad quality" but something
+	that can be improved by adding tips here and there)
+6. Improvements = Menu in the homescreen and to be able to use/
+	have a back/previous button
+7. Bugs
+8. Would you recommend?
+	I only have a few friends and this is kind of unorthodox for us.
+9. What would you rate this app 1-5 stars if it was released today?
+	I'm usually a generous reviewer when it comes to apps and games because
+	I know how much effort it takes to make and publish one. 
+	But if I'm being objective here I'll rate it 4 stars because I'm cheap
+	and I don't like spending money in apps and games and won't probably
+	see all the other fun features, decks and all.
+10. App Icon = Attractive, but can the user have an option to change
+	it to a low-key one? Some users who may also want to play the game
+	and keep it low-key.
+11. App performance = A bit slow on some parts
+	From the home screen and tapping "Let's play!" the bottom UI will shortly
+	freeze and there's a blank screen above it. It's like the app froze but it's
+	just loading. ( You can add a little loading screen there 
+	and maybe with the Tips?)
+12. Sound effects = Nice and fun without it being too distracting.
+13. No
+14. Navigation (Menu) = Why is it not in the start screen?
+15. Talent tree = Nice rewards but it feels like I'm just looking at icons.
+16. Bugs
+	Classification: Reward Bug
+	Reproducttibility: Random
+	Title: Nightly Rewards Bug
+	Description: Even after collecting the rewards starting the game, 
+		After finishing a game, and then playing another one,
+		a messege will show "Retrieving your Nightly rewards..."
+		and a Pop-up will show with a message:
+		"Could not connect to Nightly Rewards.
+		mono-io-layer-error (10035)"
+	Steps to reproduce: finish a game
+	Expected results: No Nightly Rewards pop-up
+	Actual Results: Error pop-up
+	Files:
+	Note: Resetting the Couple in "Who's Playing"
+		seemed to fix the bug when I did it for
+		Tasks > 2
