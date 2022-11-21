@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 -   Twitter: @tenshi_tries
 -   Instagram: @tenshi_tries
--   Discord: Tenshi😇#1104
+-   Discord: Tenshi😇#8780
 
 <!---
 Tenshi-Tries/Tenshi-Tries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
