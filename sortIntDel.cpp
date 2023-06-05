@@ -12,7 +12,7 @@ int main() {
        cout << "Enter " << "element " << (i+1) << ":" <<endl;
        cin >> arr[i];
    }
-   int sizeof(arr)/sizeof(arr[0]);
+   int n = sizeof(arr)/sizeof(arr[0]);
    sort(arr, arr+n);
    for(i = 0; i < size; i++){
        cout << arr[i] << endl;
